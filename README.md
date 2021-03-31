@@ -6,7 +6,7 @@
 ```git
 git clone https://github.com/AbndreyMichaylov/test
 ```
-```bash
+```cmd
 user@test:~$cd env/scripts
 user@test/env/scripts:~$activate
 user@test/env/scripts:~$cd ..
