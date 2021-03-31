@@ -48,3 +48,10 @@ password : OQG61{6V1ice
 ```
 http://127.0.0.1:8000/api/v1/auth/token/login
 ```
+Затем нужно отправить POST запрос в теле которого передатьследующий json(пример будет на пользователе dmitriy):
+```json
+{
+  "password" : "OQG61{6V1ice",
+  "login" : "dmitriy"
+}
+```
