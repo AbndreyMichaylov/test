@@ -2,6 +2,11 @@
 ====================================
 -----------------------------------
 ### Деплой приложения
+
 ```git
-htyhtyhtyh
+git clone https://github.com/AbndreyMichaylov/test
+```
+```cmd
+cd env/scripts
+activate
 ```
