@@ -6,7 +6,9 @@
 ```git
 git clone https://github.com/AbndreyMichaylov/test
 ```
-```cmd
-user$cd env/scripts
-user$activate
+```bash
+cd env/scripts
+activate
+cd ..
+cd ..
 ```
