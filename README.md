@@ -52,6 +52,6 @@ http://127.0.0.1:8000/api/v1/auth/token/login
 ```json
 {
   "password" : "OQG61{6V1ice",
-  "login" : "dmitriy"
+  "username" : "dmitriy"
 }
 ```
