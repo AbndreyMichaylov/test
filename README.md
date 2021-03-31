@@ -31,6 +31,7 @@ login : andrey
 password : andrey
 ```
 Админ панель выглядит следующим образом
+
 ![image](https://user-images.githubusercontent.com/48345409/113225076-74a9ce80-9295-11eb-8f9a-0031d9eafe57.png)
 ----------------------------
 В система изначально присутсвует 2 пользователя, kirill, dmitriy, их данные представленны ниже:
