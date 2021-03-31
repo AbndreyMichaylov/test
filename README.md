@@ -28,3 +28,12 @@ http://127.0.0.1:8000/admin
 login : andrey
 password : andrey
 ```
+В система изначально присутсвует 2 пользователя, kirill, dmitriy, их данные представленны ниже:
+```
+kirill
+login : kirill
+password : EVQJdsEJyvzM
+dmitriy
+login : dmitriy
+password : OQG61{6V1ice
+```
