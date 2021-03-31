@@ -7,6 +7,6 @@
 git clone https://github.com/AbndreyMichaylov/test
 ```
 ```cmd
-cd env/scripts
-activate
+user$cd env/scripts
+user$activate
 ```
