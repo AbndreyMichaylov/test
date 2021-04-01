@@ -22,7 +22,7 @@ class Survey(models.Model):
         ('ended', 'Пройден'),
     )
     name = models.CharField(verbose_name='Название опроса',max_length=40)
-    date_start = models.DateTimeField(verbose_name='Дата начала')
+    date_start = models.DateTimeField(verbose_name='Дата начала', auto_now_add=True)
     date_end = models.DateTimeField(verbose_name='Дата окончания', blank=True, null=True)
     desc = models.CharField(verbose_name='Описание',max_length=300)
     questions = models.ManyToManyField(verbose_name='Вопросы',to=Question)
