@@ -33,6 +33,11 @@ password : andrey
 Админ панель выглядит следующим образом
 
 ![image](https://user-images.githubusercontent.com/48345409/113225076-74a9ce80-9295-11eb-8f9a-0031d9eafe57.png)
+
+Схема базы данных
+
+![cheema](https://user-images.githubusercontent.com/48345409/113225901-80969000-9297-11eb-9ff5-2bd06d8f88be.png)
+
 ----------------------------
 В система изначально присутсвует 2 пользователя, kirill, dmitriy, их данные представленны ниже:
 ```
